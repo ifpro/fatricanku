@@ -1,4 +1,5 @@
-PT. Inspirasi Cemerlang Indonesia ( Andi Irfan Maualana )
+Dibuat Oleh PT. Inspirasi Cemerlang Indonesia 
+( Andi Irfan Maualana )
 All Rights reserved
 <html lang="en">
 <head>
