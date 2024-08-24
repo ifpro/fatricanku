@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+PT. Inspirasi Cemerlang Indonesia ( Andi Irfan Maualana )
+All Rights reserved
 <html lang="en">
 <head>
     <meta charset="UTF-8">
